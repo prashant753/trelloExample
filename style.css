@@ -3,11 +3,9 @@
     color: orangered;
 }
 
-#team5{
-    background: #423A8D;
-    padding: 3em 0;
-    color: #fff;
-  }
+
+
+
 .social_icons
 {
     color: white;
@@ -26,6 +24,7 @@
 
     float: left;
 }
+
 
 .team{
 	background:url(./images/aa.png) no-repeat 0px 0px;
@@ -181,4 +180,9 @@ ul.social li.gmail a span{
 }
 ul.social li.inline a span{
 	background-position:-105px -35px;
+}
+
+.foot{
+    height: 7rem;
+    align:center; 
 }
