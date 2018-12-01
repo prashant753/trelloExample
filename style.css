@@ -184,13 +184,17 @@ ul.social li.gmail a span{
 ul.social li.inline a span{
 	background-position:-105px -35px;
 }
-<<<<<<< HEAD
+.card{
+	width:280px;
+	height:305px;
+}
 .card-img-top{
 
-=======
+width: 280px;
+height: 200px;
 
 .foot{
     height: 7rem;
     align:center; 
->>>>>>> b2aeb695f0c651375726b75a9686bbbb6b14a50a
+
 }
