@@ -2,12 +2,7 @@
 {
     color: orangered;
 }
-<<<<<<< HEAD
-.foot{
-    height: 7rem;
-    align:center; 
-    }
-=======
+
 .social_icons
 {
     color: white;
@@ -25,4 +20,8 @@
 
     float: left;
 }
->>>>>>> 0eec2474fd8959b93b0d600ccccc551de336f778
+
+.foot{
+    height: 7rem;
+    align:center; 
+}
