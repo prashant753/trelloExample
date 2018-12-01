@@ -1,6 +1,6 @@
 .top_bar
 {
-    color: orangered;
+    color: lightblue;
 }
 .list li{
 
@@ -193,8 +193,17 @@ ul.social li.inline a span{
 width: 280px;
 height: 200px;
 
+
+#team5{
+    background: #423A8D;
+    padding: 3em 0;
+    color: #fff;
+  }
+
 .foot{
     height: 7rem;
     align:center; 
 
+
 }
+
