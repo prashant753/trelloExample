@@ -2,13 +2,12 @@
 {
     color: orangered;
 }
-<<<<<<< HEAD
+
 #team5{
     background: #423A8D;
     padding: 3em 0;
     color: #fff;
   }
-=======
 .social_icons
 {
     color: white;
@@ -16,6 +15,7 @@
     font-size: 20px;
     padding: 3px;
 }
+
 .div7 ul li a
 {
     color: black;
@@ -26,4 +26,159 @@
 
     float: left;
 }
->>>>>>> 0eec2474fd8959b93b0d600ccccc551de336f778
+
+.team{
+	background:url(./images/aa.png) no-repeat 0px 0px;
+	width:100%;
+	min-height:100px;
+	display:block;
+	text-align:center;
+	padding: 10em 0 7em;
+	background-size:cover;
+}
+
+.team-head h3{
+	color:#fff;
+	font-size:60px;
+	font-weight:10;
+	margin-top: -120px;
+	margin-bottom: 300px;
+}
+.team-head p{
+	color:#e5d1e3;
+	font-size:5;
+	font-weight:300;
+	padding:1em 0 3em;
+	line-height: 1.5em;
+	margin-top: -300px;
+	margin-bottom: 250px;
+}
+.team-grid{
+	background:rgba(93, 77, 91, 0.62);
+	margin-bottom: 200px;
+	margin-top: -200px;
+	padding: 3em 2em;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+} 	 
+.team-top-grid{
+	float:left;
+	margin-right:2.6%;
+	width:20%;
+	padding:0;
+	margin-top: -180px;
+}
+.team-grid a label{
+	background: url(./images/te.png) 0px -187px no-repeat;
+	width: 200px;
+	height: 151px;
+	display: inline-block;
+	margin: 0;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+a.meet{
+	text-decoration: none;
+	color: #fff;
+	font-size: 1.8em;
+	background: #a1ca6c;
+	padding: 10px;
+	text-transform: uppercase;
+	font-weight: 900;
+	border-radius: 5px;
+	position:relative;
+	margin-bottom: 200px;
+}
+a.meet span{
+	background: url(./images/arrow1.png) no-repeat 0px 0px;
+	width: 49px;
+	height: 26px;
+	display: inline-block;
+	position: absolute;
+	bottom: -18px;
+	left: 117px;
+}
+
+
+/*....*/
+.team-top-grid:hover .team-grid a label{
+	background-position:0px 0px;
+}
+.team-top-grid:hover .team-grid h6{
+	color:#fff;
+}
+.team-top-grid:hover .team-grid small{
+	color:#df5c64;
+}
+.team-top-grid:hover .team-grid{
+	background:#5d4d5b;
+}
+.team-top-grid:hover ul.social li.facebook a span{
+	background-position:0px 0px;
+}
+.team-top-grid:hover ul.social li.twitter a span{
+	background-position:-35px 0px;
+}
+.team-top-grid:hover ul.social li.gmail a span{
+	background-position:-70px 0px;
+}
+.team-top-grid:hover ul.social li.inline a span{
+	background-position:-105px 0px;
+}
+.team-grid h6{
+	color:#c7b6c5;
+	font-size: 1.7em;
+	text-transform: uppercase;
+	font-weight: 800;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+.team-grid small{
+	color:#a1ca6c;
+	font-size:1em;	
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+.team-top {
+	padding: 6em 0 0;
+}
+ul.social{
+	padding:2em 0 0;
+}
+ul.social li{
+	display:inline-block;
+	padding: 0 7px;
+}
+ul.social li a span{
+	background: url(./images/img-sprite.png) 0px -35px no-repeat;
+	width: 30px;
+	height: 35px;
+	display: block;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+ul.social li.twitter a span{
+	background-position:-39px -35px;
+}
+ul.social li.gmail a span{
+	background-position:-70px -35px;
+}
+ul.social li.inline a span{
+	background-position:-105px -35px;
+}
