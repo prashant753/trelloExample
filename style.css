@@ -182,7 +182,8 @@ ul.social li.inline a span{
 	background-position:-105px -35px;
 }
 
-.foot{
-    height: 7rem;
-    align:center; 
-}
+#team5{
+    background: #423A8D;
+    padding: 3em 0;
+    color: #fff;
+  }
