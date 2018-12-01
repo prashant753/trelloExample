@@ -2,8 +2,28 @@
 {
     color: orangered;
 }
+<<<<<<< HEAD
 #team5{
     background: #423A8D;
     padding: 3em 0;
     color: #fff;
   }
+=======
+.social_icons
+{
+    color: white;
+    margin-right: 5px;
+    font-size: 20px;
+    padding: 3px;
+}
+.div7 ul li a
+{
+    color: black;
+    float: left;
+}
+.div7 ul li
+{
+
+    float: left;
+}
+>>>>>>> 0eec2474fd8959b93b0d600ccccc551de336f778
