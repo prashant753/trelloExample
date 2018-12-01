@@ -2,6 +2,12 @@
 {
     color: orangered;
 }
+
+#team5{
+    background: #423A8D;
+    padding: 3em 0;
+    color: #fff;
+  }
 .social_icons
 {
     color: white;
@@ -20,6 +26,7 @@
 
     float: left;
 }
+
 .team{
 	background:url(./images/aa.png) no-repeat 0px 0px;
 	width:100%;
